@@ -17,13 +17,6 @@
 - **Score Tracking**: Keeps track of the number of guesses it took for the player to find the correct number.
 - **Retry Option**: Once the player guesses correctly, they can start a new game with a different number range.
 
-## Installation Instructions
-
 ### Prerequisites
 - A modern web browser (e.g., Chrome, Firefox, Safari) to run the game.
 - A code editor (optional) for any customizations or modifications to the game.
-
-### Setting Up the Game
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/yourusername/predict-my-number.git
